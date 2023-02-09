@@ -1,6 +1,6 @@
 /*
 * Tiffany Nguyen
-* stringMani.kt
+* 02.8 String Manipulator
 * 02/09/2023
 * */
 fun main(){
