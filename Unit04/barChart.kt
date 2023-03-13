@@ -1,5 +1,3 @@
-import java.awt.font.FontRenderContext
-
 fun main(){
 
     var store = IntArray(5)
